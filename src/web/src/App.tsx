@@ -16,12 +16,12 @@ function App() {
         </h1>
 
         <div className="grid grid-cols-6 gap-6 mt-16">
-          <GameBanner bannerUrl="/game-1.png" title="League of Legends" adsCount={4} />
-          <GameBanner bannerUrl="/game-1.png" title="League of Legends" adsCount={4} />
-          <GameBanner bannerUrl="/game-1.png" title="League of Legends" adsCount={4} />
-          <GameBanner bannerUrl="/game-1.png" title="League of Legends" adsCount={4} />
-          <GameBanner bannerUrl="/game-1.png" title="League of Legends" adsCount={4} />
-          <GameBanner bannerUrl="/game-1.png" title="League of Legends" adsCount={4} />
+          <GameBanner bannerUrl="/game-1.png" title="League of Legends" adsCount={5} />
+          <GameBanner bannerUrl="/game-2.png" title="DOTA" adsCount={3} />
+          <GameBanner bannerUrl="/game-3.png" title="CS GO" adsCount={8} />
+          <GameBanner bannerUrl="/game-4.png" title="Apex Legends" adsCount={4} />
+          <GameBanner bannerUrl="/game-5.png" title="Fortnite" adsCount={9} />
+          <GameBanner bannerUrl="/game-6.png" title="Wold of Warcraft" adsCount={2} />
         </div>
 
         <div className="bg-duo-gradient w-full pt-1 mt-8 rounded-lg overflow-hidden">
